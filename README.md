@@ -1,5 +1,5 @@
 ### WELCOME 👋
-
+I'm aspiring to achieve programming freedom. 
 ### SKILLS
 
 - ReactJs
@@ -10,4 +10,4 @@
 - HTML
 - Javascript
 - Java
-
+  
